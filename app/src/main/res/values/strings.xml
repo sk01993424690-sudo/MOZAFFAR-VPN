@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MOZAFFAR VPN</string>
+    <string name="vpn_notification_channel_name">VPN Connection Status</string>
+    <string name="vpn_notification_channel_desc">Displays active WireGuard tunnel status and controls</string>
+    <string name="vpn_notification_title">MOZAFFAR VPN Protected</string>
+    <string name="vpn_notification_connected">Encrypted WireGuard tunnel active (%1$s)</string>
+    <string name="vpn_notification_reconnecting">Reconnecting encrypted tunnel (%1$s)…</string>
+    <string name="vpn_action_disconnect">Disconnect</string>
+    <string name="ad_badge_label">Ad</string>
+</resources>

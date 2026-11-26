@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">মোজাফফর ভিপিএন</string>
+    <string name="vpn_notification_channel_name">ভিপিএন সংযোগ অবস্থা</string>
+    <string name="vpn_notification_channel_desc">সক্রিয় ওয়্যারগার্ড টানেলের অবস্থা এবং নিয়ন্ত্রণ প্রদর্শন করে</string>
+    <string name="vpn_notification_title">মোজাফফর ভিপিএন সুরক্ষিত</string>
+    <string name="vpn_notification_connected">এনক্রিপ্টেড ওয়্যারগার্ড টানেল সক্রিয় (%1$s)</string>
+    <string name="vpn_notification_reconnecting">এনক্রিপ্টেড টানেল পুনরায় সংযোগ হচ্ছে (%1$s)…</string>
+    <string name="vpn_action_disconnect">বিচ্ছিন্ন করুন</string>
+    <string name="ad_badge_label">বিজ্ঞাপন</string>
+</resources>

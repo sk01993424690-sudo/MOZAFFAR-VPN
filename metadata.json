@@ -1,0 +1,8 @@
+{
+  "name": "MOZAFFAR VPN",
+  "description": "Secure Android WireGuard VPN client featuring a dark navy and purple UI, real-time tunnel telemetry, 8 global server regions, DNS leak protection, kill switch support, Bengali and English localization, and AdMob/Play Billing integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
